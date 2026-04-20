@@ -1,7 +1,7 @@
 # POCO X8 LED
 Tak.
 
-O co chodzi? Bawiłem się moim nowym POCO X8 Pro i dowiedziałem się, że mają tylko podświetlenie RGB i chciałem sobie to skustomizować, ale niestety ustawienia telefonu nie dają innych opcji niż: miganie podczas powiadomień/telefonu i rytmicznego RGB do muzyki.
+O co chodzi? Bawiłem się moim nowym POCO X8 Pro i dowiedziałem się, że ma on podświetlenie RGB (z tyłu obok kamery) i chciałem sobie to skustomizować, ale ustawienia telefonu nie dają innych opcji niż: miganie podczas powiadomień/telefonu i rytmicznego RGB do muzyki.
 
 Dlatego zdekompilowałem parę plików wyciągniętych przez `adb` z telefonu i znalazłem ten piękny kod.
 
